@@ -1,4 +1,4 @@
-# FGG Madlions Titan 68 Turbo – English Manual
+# FGG Madlions Titan 68 Turbo – English  User Manual
 
 This repository provides a complete and accurate English manual for the Titan 68 Turbo keyboard.
 
